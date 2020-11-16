@@ -1,0 +1,7 @@
+*test*
+a.* 
+a.out 
+lex.yy.c
+parse.tab.h
+parse.tab.c
+parse.output
